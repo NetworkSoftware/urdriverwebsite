@@ -3210,9 +3210,11 @@ b,strong{
 	margin:0 auto;
 }
 .story-wrapper{
-	width:100%;
-	margin:0 auto;
-	color:#444545;
+	width: 100%;
+    margin: 0 auto;
+    color: #444545;
+    position: relative;
+    height: 5600px;
 }
 .story-section-width{
 	max-width:1024px;
