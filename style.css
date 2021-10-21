@@ -2067,10 +2067,10 @@ body{
 	position:absolute;
 	background:url(../images/contact-us-bg.png) no-repeat center center;
 	width:530px;
-	padding:40px;
+	padding:20px;
 }
 .contact-us-block .head{
-	color:#ffffff;
+	color:#ffffff; 
 	font-size:40px;
 	margin-bottom:25px;
 	font-weight:300;
@@ -2096,7 +2096,6 @@ body{
 .contact-block .contact-by{
 	background:url(../images/phone-bg.png) no-repeat center center / 100%;
 	float:left;
-	width:48%;
 	padding:6px 10px;
 	height:42px;
 }
