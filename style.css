@@ -1919,7 +1919,7 @@ body{
 .privacy-policy-wrapper{
 	max-width:1170px;
 	margin:0 auto;
-	padding:40px 0;
+	padding:40px 20px;
 	color:#444545;
 }
 .privacy-policy-wrapper span.bold{
